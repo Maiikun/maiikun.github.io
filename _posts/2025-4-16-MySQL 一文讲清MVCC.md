@@ -1,4 +1,10 @@
-
+---
+title: MVCC
+date: 2024-11-27 18:11:58 +0800
+categories: [UE]
+tags: [UE] # TAG names should always be lowercase
+media_subpath: /assets/img/UE
+---
 
 多版本并发控制,实现了MYSQL的事务隔离性;
 - **隔离性：通过加锁（当前读）&MVCC（快照读）实现。**
