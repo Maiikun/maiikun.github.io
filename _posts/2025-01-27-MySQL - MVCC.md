@@ -3,7 +3,7 @@ title: MVCC
 date: 2024-11-27 18:11:58 +0800
 categories: [MySQL]
 tags: [MySQL] # TAG names should always be lowercase
-media_subpath: /assets/img/mysql
+media_subpath: /assets/img
 ---
 
 多版本并发控制,实现了MYSQL的事务隔离性;
