@@ -11,3 +11,4 @@ media_subpath: /_posts/images
 **在读已提交和可重复读隔离级别下的快照读，都是基于MVCC实现的**
 
 mvcc的实现，基于**undolog**、**版本链**、**readview**。
+![[Pasted image 20250703220016.png]]
